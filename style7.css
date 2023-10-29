@@ -1,0 +1,129 @@
+
+body {
+    background-image: url(images/kwangya.jpg);
+    font-family: Helvetica;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    font-size: 120%;
+}
+
+/*image size*/
+.img {
+    width: 20%;
+}
+
+head {
+   background-color: rgba(255, 192, 203, 0.658);
+   color: white;
+   padding: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+   text-align: center; 
+   border-radius: 10px;
+   border: 5px solid rebeccapurple;
+}
+
+/*css font*/
+p, ol {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    font-family: Helvetica;
+    text-align: justify;
+}
+
+Ol.a {
+    list-style-type: decimal;
+    font-family: helvetica;
+    color: white;
+}
+
+table, th, td {
+    border: 0px;
+    margin: auto;
+}
+
+table {
+    width: 65%;
+}
+
+#C {
+    background-color: rgba(255, 192, 203, 0.658);
+    width: auto;
+    height: auto;
+    border: 5px solid rebeccapurple;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.visimisi {
+    text-align: justify;
+    color: rgba(255, 192, 203, 0.658);
+    font-size: 100%;
+    font-family: Helvetica, sans-serif;
+}
+
+#li {
+    font-family: helvetica;
+    color: white;
+}
+
+#D {
+    background-color: rgba(255, 192, 203, 0.658);
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 5px solid rebeccapurple;
+}
+
+.paragraf {
+    background-color: rgba(255, 192, 203, 0.658);
+    color: white;
+    font-size: large;
+    padding-top: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 12px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fa-facebook {
+    color: blue;
+    margin-left: 5%;
+}
+
+.fa-twitter {
+    color: black;
+    margin-left: 2%;
+}
+
+.fa-youtube {
+    color: red;
+    margin-left: 2%;
+}
+
+.fa-instagram {
+    color: purple;
+    margin-left: 2%;
+}
+
+
+
+
+
